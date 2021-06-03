@@ -1,7 +1,7 @@
 #!/bin/bash
 #
-# decimo.sh - Nosso sexto programa em shell - Script de Backup Completo "
-#
+# funcoes.sh - Nossas funcoes em shell - Script de Backup Completo "
+# modificacao
 # Homepage: hhtp://jacome.com.br
 # Autor: Nilberto Jacome Santos
 # Mantenedor: Nilberto J. Santos
